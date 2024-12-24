@@ -154,7 +154,9 @@ header {
     border-bottom: 2px solid var(--primary);
   }
   
-  
+  .contact {
+  flex-direction: column;
+}
   .contact-content {
     display: flex;
     align-items: center;
